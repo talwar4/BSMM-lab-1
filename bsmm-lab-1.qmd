@@ -1,9 +1,6 @@
 ---
-title: "Lab 1 - The Tidyverse and GIT"
-subtitle: "BSMM BSMM-8740 - Fall 2023"
-author: "LLO"
-date: "August 16, 2023"
-format: pdf
+title: "BSMM-lab-1"
+format: html
 editor: visual
 ---
 

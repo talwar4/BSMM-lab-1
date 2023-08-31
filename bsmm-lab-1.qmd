@@ -1,7 +1,9 @@
 ---
 title: "BSMM-lab-1"
+author: "?"
 format: html
 editor: visual
+self-contained: true
 ---
 
 ## Setup
